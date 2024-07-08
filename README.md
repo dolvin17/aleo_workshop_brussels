@@ -21,6 +21,12 @@
 
 ## Deployment: https://explorer.aleo.org/transaction/at1clqhrsjj0c8awq828gnj0vf0w7wqm9hfszqhh2kl3wsvz8gwhyzq9nllar?tab=overview
 
+
+## Signed message:
+
+sign18nrmx0trq0e7cj3mdfjv07nh46lkss88yevd56mvcs8vxq9esgpr9cukp2qqkj9tsp6xn9k85t7f2u698entydc285ccg0ulrclmvqahrtseqs44c9whzfgtqjzv3jr4tmdjesy24rxlkjl5067a74hzzya9sh3mle8ztuxql0rt2hk3euwwlrkg732sqavszn53y6sdnz0sjvr44ph
+
+
 Thanks! Have a nice ETHCC week! 
 
 
